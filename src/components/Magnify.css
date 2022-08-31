@@ -1,0 +1,28 @@
+.container{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    
+}
+
+.pictures{
+    width: 70px;
+   
+    border: 2px solid black;
+}
+
+.picture{
+    height: 550px;
+    width: 550px;;
+    border: 2px solid black;
+    position: relative;
+}
+
+.magnifier_lens{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    position: absolute;
+    
+}
+
